@@ -115,7 +115,7 @@ Route::group(['middleware' => ['web']], function () {
 //        Route::get('appUser/{appUserId}/editShow', 'AppUserController@editShowAppUser');
 //        Route::post('appUser/edit', 'AppUserController@editAppUser');
 //        Route::get('appUser/forgetPass', 'AppUserController@forgetPass');
-
+// ceshiyixiaaaa;
         //测试页面
         Route::get('test', 'TeacherController@test');
         Route::get('testRedis', 'TeacherController@testRedis');
